@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "655860222807",
+    "project_id": "careerpilot-ai-d3faa",
+    "storage_bucket": "careerpilot-ai-d3faa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655860222807:android:21907d19dc94d317128c12",
+        "android_client_info": {
+          "package_name": "com.example.careerpilot_ai_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655860222807-v1rb5vkfjvbob7i4usa8s4h40o8rj3nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.careerpilot_ai_new",
+            "certificate_hash": "8b68a4b34c84fa44cd752f52d892fc39137d4672"
+          }
+        },
+        {
+          "client_id": "655860222807-odknku264i7tor4mj15sd6fq9vunpg6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSEChNKzFxuEDvghiulrsGuctwyycKlCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655860222807-odknku264i7tor4mj15sd6fq9vunpg6a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655860222807-hq31hqnuptq054ec0hj2444ppqpsb42m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.careerpilotAiNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
