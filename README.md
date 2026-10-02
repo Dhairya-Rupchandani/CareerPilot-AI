@@ -120,19 +120,19 @@ Users can track their:
 
 ## 📸 Application Screenshots
 
-### 🔐 Login
+### 🔐 Login Screen
 ![Login Screen](screenshots/1_login.JPG)
 
-### 🏠 Home
+### 🏠 Home Screen
 ![Home Screen](screenshots/2_home.JPG)
 
-### 🗺️ Roadmap
+### 🗺️ Roadmap Screen
 ![Roadmap Screen](screenshots/3_roadmap.JPG)
 
-### 📊 Analysis
+### 📊 Analysis Screen
 ![Analysis Screen](screenshots/4_analysis.JPG)
 
-### 👤 Profile
+### 👤 Profile Screen
 ![Profile Screen](screenshots/5_profile.JPG)
 
 ---
@@ -144,3 +144,48 @@ Users can track their:
 This project is published for academic and portfolio purposes.
 
 The source code, design, content, and other materials in this repository may not be copied, modified, distributed, or used for commercial purposes without permission from the CareerPilot AI project team.
+
+---
+
+## 🚀 How to Run
+
+### Prerequisites
+
+Make sure the following are installed:
+
+- Flutter SDK
+- Android Studio
+- Android SDK
+- A connected Android device or emulator
+- Firebase project configuration
+
+### Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Dhairya-Rupchandani/CareerPilot-AI.git
+cd CareerPilot-AI
+
+---
+
+## 📁 Project Structure
+
+```text
+careerpilot_ai_new/
+│
+├── android/              # Android platform configuration
+├── assets/
+│   └── images/           # Application images and logo
+│
+├── lib/
+│   ├── core/             # Core application configuration
+│   ├── models/           # Data models
+│   ├── screens/          # Application screens and UI
+│   ├── services/         # Firebase, AI and application services
+│   └── widgets/          # Reusable UI widgets
+│
+├── screenshots/          # Application screenshots
+├── pubspec.yaml          # Flutter dependencies and configuration
+├── firebase.json         # Firebase configuration
+└── README.md             # Project documentation
