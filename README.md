@@ -134,3 +134,13 @@ Users can track their:
 
 ### 👤 Profile
 ![Profile Screen](screenshots/5_profile.JPG)
+
+---
+
+## 📜 Copyright & Usage
+
+© 2026 CareerPilot AI. All rights reserved.
+
+This project is published for academic and portfolio purposes.
+
+The source code, design, content, and other materials in this repository may not be copied, modified, distributed, or used for commercial purposes without permission from the CareerPilot AI project team.
