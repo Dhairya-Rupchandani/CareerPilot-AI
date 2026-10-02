@@ -59,9 +59,6 @@ Users can interact with the AI to ask career-related questions and receive guida
 ### 📄 Resume Builder
 Users can create and manage a professional resume inside the application.
 
-### 🎤 Interview Preparation
-The application provides AI-assisted preparation for career interviews.
-
 ### 📈 Progress Tracking
 Users can track their:
 
@@ -117,3 +114,23 @@ Users can track their:
                     │   Personalized      │
                     │ Career Guidance     │
                     └─────────────────────┘
+```
+
+---
+
+## 📸 Application Screenshots
+
+### 🔐 Login
+![Login Screen](screenshots/1_login.JPG)
+
+### 🏠 Home
+![Home Screen](screenshots/2_home.JPG)
+
+### 🗺️ Roadmap
+![Roadmap Screen](screenshots/3_roadmap.JPG)
+
+### 📊 Analysis
+![Analysis Screen](screenshots/4_analysis.JPG)
+
+### 👤 Profile
+![Profile Screen](screenshots/5_profile.JPG)
